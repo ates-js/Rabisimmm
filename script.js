@@ -1,9 +1,5 @@
 const messages = [
-  "Hayır 😒",
-  "Emin misin?",
-  "Tekrar düşün…",
-  "Hadiii ama doktorum 🥺",
-  "Bence kabul ettt 😌"
+ "Hayır 😒", "Emin misin? 🥺", "EKG düz çizgi oldu 📉", "Nabzım düştü 😭", "NST bozuldu 😔", "Kalbim ritim kaçtı 💔", "Doktorumm 🩺", "CPR lazım bana 😭", "Yoğun bakımlık oldum 🛏️", "Serum tak bana 😔", "Kalbime stent gerek 😭", "Tansiyonum düştü 🥲", "Bir doz sevgi yaz 😔", "MR sonucum kötü 😭", "Kalbim alarm veriyo 🚨", "Acile düştüm 😭", "Rapor yaz bari 🥺", "Nefesim kesildi 😔", "Kalbim fibrilasyon oldu 💔", "Bi reçete yaz 😭", "Aşkım kritik vaka 😔", "Trip teşhisi koydum 😭", "Beni taburcu et 😔", "Nabız 40 oldu 📉", "Dikiş at kalbime 😭", "Yoğun bakım full 😔", "Kalp grafiğim kötü 🥲", "Doktor hanım acill 😭", "Bence tedavi lazım 😌", "Affet geçsin 😭"
 ];
 
 const stickerImages = [
