@@ -1,9 +1,9 @@
 const messages = [
   "Hayır 😒",
-  "Eminmisin?",
+  "Emin misin?",
   "Tekrar düşün…",
-  "son şans 🥺",
-  "Tamam peki 😌"
+  "Hadiii ama doktorum 🥺",
+  "Bence kabul ettt 😌"
 ];
 
 const stickerImages = [
