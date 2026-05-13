@@ -33,7 +33,7 @@ function handleYesClick() {
   }
 
   setTimeout(() => {
-    alert("YYYYYUUUUUUUPİİİİİİİ 💖 BİLİYORDUMMM!");
+    alert("Seni üzmek istememiştim gerçekten… Ama iyi ki varsın, iyi ki benimlesin 🥹 Seninle konuşunca bütün kötü hisler geçiyo. Gülüşün bile terapi gibi 😭💖 Artık resmi olarak: Hasta → Mutlu hasta 😌");
   }, 300);
 }
 
